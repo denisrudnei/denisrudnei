@@ -1,6 +1,8 @@
 ## Links
 
+ - [Portfolio](https://www.denissouza.dev)
  - [Linkedin](https://br.linkedin.com/in/denis-rudnei-de-souza)
+ - [StackOverflow](https://pt.stackoverflow.com/users/53279/denis-rudnei-de-souza)
  - [Facebook](www.fb.com/denisrudneidesouza)
  - [Twitter](www.twitter.com/@bmdns)
 
