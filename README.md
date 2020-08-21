@@ -3,7 +3,7 @@
  - [Portfolio](https://www.denissouza.dev)
  - [Linkedin](https://br.linkedin.com/in/denis-rudnei-de-souza)
  - [StackOverflow](https://pt.stackoverflow.com/users/53279/denis-rudnei-de-souza)
- - [Twitter](https://www.twitter.com/@bmdns)
+ - [Twitter](https://www.twitter.com/@bm_dns)
 
 <!--
 **denisrudnei/denisrudnei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
