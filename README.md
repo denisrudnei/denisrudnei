@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=denisrudnei&show_icons=true&count_private=true&theme=dracula)
+
 ## Links
 
  - [Portfolio](https://www.denissouza.dev)
