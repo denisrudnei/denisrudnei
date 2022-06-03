@@ -11,4 +11,4 @@
  - [StackOverflow](https://pt.stackoverflow.com/users/53279/denis-rudnei-de-souza)
  - [Twitter](https://www.twitter.com/@bm_dns)
 
-[![wakatime](https://wakatime.com/badge/user/309548b3-a935-4fbc-8746-8ea0bcb9a797.svg)](https://wakatime.com/@309548b3-a935-4fbc-8746-8ea0bcb9a797)
+[![wakatime](https://wakatime.com/badge/user/309548b3-a935-4fbc-8746-8ea0bcb9a797.svg?style=for-the-badge)](https://wakatime.com/@309548b3-a935-4fbc-8746-8ea0bcb9a797)
