@@ -1,8 +1,8 @@
-![](https://github-readme-stats.vercel.app/api?username=denisrudnei&show_icons=true&count_private=true&theme=dracula)
+![](https://github-stats.denissouza.dev/api?username=denisrudnei&show_icons=true&count_private=true&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=denisrudnei&theme=dracula)
+![](https://github-stats.denissouza.dev/api/wakatime?username=denisrudnei&theme=dracula)
 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denisrudnei&layout=compact&langs_count=8&theme=dracula)
+![](https://github-stats.denissouza.dev/api/top-langs/?username=denisrudnei&layout=compact&langs_count=8&theme=dracula)
 
 ## Links
 
